@@ -8,7 +8,8 @@ const traits = [
     "Độ thông minh: Âm vô cùng, nhưng được cái may mắn.",
     "Tương lai: Sắp trở thành tỷ phú... trong giấc mơ.",
     "Đặc điểm nhận dạng: Hay cười một mình như lập trình viên thiếu ngủ.",
-    "Chưa đăng ký kênh tôi"
+    "Chưa đăng ký kênh tôi",
+    "Chưa like và chưa subscribe"
 ];
 
 calcBtn.addEventListener('click', () => {
