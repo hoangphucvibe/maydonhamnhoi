@@ -9,7 +9,8 @@ const traits = [
     "Tương lai: Sắp trở thành tỷ phú... trong giấc mơ.",
     "Đặc điểm nhận dạng: Hay cười một mình như lập trình viên thiếu ngủ.",
     "Chưa đăng ký kênh tôi",
-    "Chưa like và chưa subscribe"
+    "Chưa like và chưa subscribe",
+    "Chưa share video này",
 ];
 
 calcBtn.addEventListener('click', () => {
